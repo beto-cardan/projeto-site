@@ -1,2 +1,2 @@
-# projeto-site
- Projeto de Um site criado durante aula de git github
+# Projeto-site
+ ___Projeto de Um site criado durante aula de git github___
